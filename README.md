@@ -1,6 +1,6 @@
 Documentation:
 
-IMPORTANT: Need an authentication token? Botrix.tk/developers
+IMPORTANT: Need an authentication token? Botrix.cc/developers
 
 
 ------------------------------------------------------
