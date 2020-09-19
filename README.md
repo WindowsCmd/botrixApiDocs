@@ -34,6 +34,9 @@ Get's if the user has voted for your listed bot's
 
 ---------------------------------------------------------
 
+# Server API features coming soon!
+---------------------------------------------------------
+
 
 User Object
 
