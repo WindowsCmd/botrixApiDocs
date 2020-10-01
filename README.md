@@ -1,11 +1,11 @@
 Documentation:
 
-IMPORTANT: Need an authentication token? Botrix.cc/developers
+BASE URL: https://botrix.cc/api/v1
 
 
 ------------------------------------------------------
 
-## GET /api/get/bot/:id
+## GET /bot/:id
 
 Authentication: Requires Bearer Token
 
@@ -15,7 +15,7 @@ See [bot object] for more info on this endpoint
 
 ------------------------------------------------------
 
-## GET /api/get/user/:id
+## GET /user/:id
 
 Authentication: Requires Bearer Token
 
@@ -24,15 +24,6 @@ Get's user stats and bot's listed on website
 See [user object] and [bot object] for more info on this endpoint
 
 ------------------------------------------------------
-
-## GET /api/protected/users/voted/:id
-
-Authentication: Requires Bearer Token
-
-Get's if the user has voted for your listed bot's
-
-
----------------------------------------------------------
 
 # Server API features coming soon!
 ---------------------------------------------------------
